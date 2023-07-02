@@ -1,19 +1,9 @@
-/* Reset styles */
-html, body, h1, h2, h3, h4, h5, h6, p, ol, ul {
-  margin: 0;
-  padding: 0;
-  font-weight: normal;
-}
+/* Custom CSS for Modern Design */
 
-/* Custom styles */
+/* Example styles */
 body {
   font-family: Arial, sans-serif;
-  background-color: #F2F2F2;
-  color: #333;
-}
-
-h1, h2, h3 {
-  color: #336699;
+  background-color: #f8f8f8;
 }
 
 .container {
@@ -22,9 +12,35 @@ h1, h2, h3 {
   padding: 20px;
 }
 
-.image {
-  max-width: 100%;
-  height: auto;
+h1 {
+  font-size: 28px;
+  color: #333;
 }
 
-/* Other styles... */
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #666;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+.button:hover {
+  background-color: #0056b3;
+}
