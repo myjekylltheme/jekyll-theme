@@ -1,8 +1,8 @@
 # Site settings
 title: My Jekyll Theme
 description: A custom Jekyll theme
-baseurl: /jekyll-theme
-url: https://myjekylltheme.github.io
+baseurl: 
+url: https://myjekylltheme.github.io/jekyll-theme
 
 # Build settings
 markdown: kramdown
