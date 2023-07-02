@@ -2,7 +2,7 @@
 title: My Jekyll Theme
 description: A custom Jekyll theme
 baseurl: "" # the subpath of your site, e.g. "/blog"
-url: "" # the base hostname & protocol for your site, e.g. "https://example.com"
+url: "url: https://myjekylltheme.github.io/" # the base hostname & protocol for your site, e.g. "https://example.com"
 
 # Build settings
 markdown: kramdown
