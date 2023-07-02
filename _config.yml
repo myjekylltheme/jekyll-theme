@@ -6,7 +6,7 @@ url: https://myjekylltheme.github.io/jekyll-theme
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
